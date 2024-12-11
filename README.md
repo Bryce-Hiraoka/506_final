@@ -1,7 +1,7 @@
 AI-Generated Text Detection 
 Bryce Hiraoka
 
-My full final report is here: <a href="https://github.com/Bryce-Hiraoka/506_final/NeurIPS_2023.pdf" target="_blank" rel="noopener noreferrer">FINAL PAPER</a> 
+My full final report is here: <a href="https://github.com/Bryce-Hiraoka/506_final/blob/main/NeurIPS_2023.pdf" target="_blank" rel="noopener noreferrer">FINAL PAPER</a> 
 
 
 Description of the Project:
